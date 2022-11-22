@@ -1,0 +1,46 @@
+section {
+    padding: 100px 0;
+}
+
+
+/* Шапка */
+
+header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #cdcdcd;
+}
+
+ul li {
+    display: inline;
+    margin-left: 15px;
+
+}
+
+/* Баннер */
+
+.banner {
+    text-align: center;
+    background-color: #e4e4e4;
+}
+
+
+/* Тебе к нам*/
+
+.sign_up {
+    background-color: #e4e4e4;
+}
+
+.sign_up .row {
+    display: flex;
+    justify-content: space-around ;
+}
+
+
+/* Подвал */
+
+footer {
+    background-color: #cdcdcd;
+    text-align: center;
+    font-weight: 700;
+}
